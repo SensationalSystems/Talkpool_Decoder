@@ -1,8 +1,8 @@
-# The Things Network decoder functions for Talkpool Sensors
+# The Things Network decoder functions for Talkpool LoRaWAN Sensors
 
 
 You can find the sensors here:
- * [OY1310](https://connectedthings.store/gb/talkpool-oy1310-single-jet-lorawan-smart-water-meter.html)
+ * [OY1310 Single-jet Smart Water Meter](https://connectedthings.store/gb/talkpool-oy1310-single-jet-lorawan-smart-water-meter.html)
 
 To use this:
 * create a TTN application and register your devices using the TTN console
